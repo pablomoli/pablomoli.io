@@ -1,7 +1,7 @@
 body {
     font: size 50; 
     font-family: 'monospaced';
-    background-color: #e68a89;
+    background-color:red;
 }
 .div{
     display: flex;
