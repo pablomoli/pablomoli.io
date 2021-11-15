@@ -1,5 +1,9 @@
 body {
     font: size 50; 
     font-family: 'sans-serif';
-    background-color: powderblue;
+    background-color: #e68a89;
+}
+.div{
+    display: flex;
+    
 }
